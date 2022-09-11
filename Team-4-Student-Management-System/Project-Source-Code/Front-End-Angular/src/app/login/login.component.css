@@ -1,0 +1,16 @@
+.card { background-color: #131566;
+}
+body{
+    background-color: #131566;
+}
+label{
+    color: white;
+}
+input.ng-invalid{
+    border-left: 2px solid red;
+}
+
+span{
+    color: red;
+    font-size: 13px;
+}

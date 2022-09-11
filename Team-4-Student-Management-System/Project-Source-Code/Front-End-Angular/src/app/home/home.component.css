@@ -1,0 +1,29 @@
+#logout{
+    text-align: right;
+    margin-left: 92%;
+}
+
+.btn-close , label{
+    color: white;
+}
+.modal-content{
+    border: #131566;
+}
+#registerTable, #title, body, #modal-body, .modal-dialog{
+    background-color: #131566;
+    border: #131566;
+}
+h1{
+    color: white;
+}
+.table{
+    border: 1px solid #5a5a5e;
+}
+input.ng-invalid{
+    border-left: 2px solid red;
+}
+
+span{
+    color: red;
+    font-size: 13px;
+}
